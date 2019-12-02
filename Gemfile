@@ -21,6 +21,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'ffi-rzmq', '~> 2.0.7'
 
 gem 'rest-client'
 gem 'bootstrap-sass', '2.3.2.1'
